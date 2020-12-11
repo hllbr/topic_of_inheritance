@@ -1,6 +1,7 @@
 
 public class Main {
     /*
+    //Source = Mustafa Murat COŞKUN / UDEMY referans alınarak geliştirilmiştir..
     inhericante(Kalıtım) = bir sınıfın başka bir sınıftan özelliklerini ve metodlarını miras alamsı anlamına geliyor.
     kişinin anne babadan göz rengini,huylarını vb... miras alamsı gibi 
     bir sınıf başka bir sınıfın özelliklerini ve metodlarını miras alabilir
